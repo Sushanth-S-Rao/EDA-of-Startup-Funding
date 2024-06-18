@@ -11,9 +11,7 @@ Exploratory Data Analysis is a foundational approach serving as a preliminary st
 * Hypothesis Testing: scipy  
 
 ## Dataset
-Dataset comprises 10 columns and 2372 rows with each tuple containing Serial Number, Date, Startup Name, Industry Vertical, Sub Vertical, City and Location, Investors Name, Investment Type, Amount in USD, and Remarks about the funding. The information is sourced from [trak.in](https://trak.in/india-startup-funding-investment-2015/)
-
-Trak.in is a mission to uncover the truth: We are India’s leading news portal, covering business, technology, ecommerce, startups, and mobile ecosystem
+Dataset comprises 10 columns and 2372 rows with each tuple containing Serial Number, Date, Startup Name, Industry Vertical, Sub Vertical, City and Location, Investors Name, Investment Type, Amount in USD, and Remarks about the funding. The information is sourced from [trak.in](https://trak.in/india-startup-funding-investment-2015/)  
 
 ## Methodology
 
