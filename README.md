@@ -7,11 +7,11 @@ Exploratory Data Analysis is a foundational approach serving as a preliminary st
 * Jupyter Notebook
 * Python
 * Libraries Used:
-| Function | Libraries  | 
-| :---          | :---:          |
-| Data Processing and Computing  | pandas, numpy |
-| Visualization         | seaborn, matplotlib, plotly, squarify, wordcloud          |
-| Hypothesis Testing  | scipy |
+| Function                        | Libraries                                         | 
+| :---                            | :---:                                             |
+| Data Processing and Computing   | pandas, numpy                                     |
+| Visualization                   | seaborn, matplotlib, plotly, squarify, wordcloud  |
+| Hypothesis Testing              | scipy                                             |
 
 ## Dataset
 Dataset comprises 10 columns and 2372 rows with each tuple containing Serial Number, Date, Startup Name, Industry Vertical, Sub Vertical, City and Location, Investors Name, Investment Type, Amount in USD, and Remarks about the funding. The information is sourced from [trak.in](https://trak.in/india-startup-funding-investment-2015/)
