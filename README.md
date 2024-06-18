@@ -5,7 +5,7 @@ Exploratory Data Analysis is a foundational approach serving as a preliminary st
 
 ## Technology Stack:
 * Jupyter Notebook
-* Python
+* Python \
 Libraries Used: \
 | Function                        | Libraries                                         | 
 | ------------------------------- | ------------------------------------------------- |
