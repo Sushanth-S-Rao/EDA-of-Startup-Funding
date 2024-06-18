@@ -7,8 +7,8 @@ Exploratory Data Analysis is a foundational approach serving as a preliminary st
 * Jupyter Notebook
 * Python \
 \
-| Function                        | Libraries                                         | 
-| :------------------------------- | :------------------------------------------------- |
+| *Function*                      | *Libraries*                                       | 
+| :------------------------------ | :------------------------------------------------ |
 | Data Processing and Computing   | pandas, numpy                                     |
 | Visualization                   | seaborn, matplotlib, plotly, squarify, wordcloud  |
 | Hypothesis Testing              | scipy                                             |
